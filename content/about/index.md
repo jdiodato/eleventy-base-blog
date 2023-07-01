@@ -10,6 +10,6 @@ Since I was 10 years old, picking up a violin for the first time in my elementar
 
 These days, I dabble in a few different areas, learning what I can as my free time allows. My current musical rotation includes: the [Great Highland bagpipe](https://en.wikipedia.org/wiki/Great_Highland_bagpipe), [uilleann pipes](https://en.wikipedia.org/wiki/Uilleann_pipes), [tin whistle](https://en.wikipedia.org/wiki/Tin_whistle), [recorder](https://en.wikipedia.org/wiki/Recorder_(musical_instrument)), and I very occasionally dabble in electric bass. 
 
-I occasionally write about my musical journey under the music tag. Interested readers can also find my digital practice log here (link forthcoming)
+I occasionally write about my musical journey under the music tag. Interested readers can also find my digital practice log [here](example.com) (link forthcoming)
 
 
