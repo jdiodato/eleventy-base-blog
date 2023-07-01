@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Music, Teaching
-  order: 3, 4
+  key: Music
+  order: 3
 ---
 # 🎶 Music
 
