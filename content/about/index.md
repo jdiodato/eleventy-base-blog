@@ -12,8 +12,6 @@ These days, I dabble in a few different areas, learning what I can as my free ti
 
 I occasionally write about my musical journey under the music tag. Interested readers can also find my digital practice log [here](example.com) (link forthcoming)
 
-# Teaching
 
-Courses that I've taught
 
 
